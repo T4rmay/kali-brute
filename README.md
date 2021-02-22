@@ -1,5 +1,5 @@
 # Am ScripTa Bo WinDoWs AbeT Agar Python 2.7 dabazandBeT LasaR Windows KaT
-#Wa AtwaNe Lasar KaLi LinuX BakaRe BHeNeT \
+# Wa AtwaNe Lasar KaLi LinuX BakaRe BHeNeT \
 #### ===========Bo RuN KrdN LasaR WinDowS 10=======
 +Open CMD
 
