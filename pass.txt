@@ -1,3 +1,15 @@
+
+#!/usr/bin/python
+import os
+import time
+import sys
+import random
+import requests
+import re
+import socket
+from os import system, name, path
+
+user_pass = ('''5h4ka
 1234554321
 12345678987654321
 1234512345
