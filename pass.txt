@@ -20,4 +20,4 @@ def colores ():
     indice=random.randrange(len(listas))
     lista=listas[indice]
     print(lista)
-TEST
+BaZhDطA
